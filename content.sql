@@ -5,3 +5,4 @@ SELECT * from dmwli;
 SELECT * from veqkp;
 SELECT * from sstgs;
 SELECT * from ifjmc;
+SELECT * from vlgcl;
