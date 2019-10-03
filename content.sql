@@ -1,1 +1,1 @@
-SELECT * from kumqo;
+SELECT * from hadmb;
