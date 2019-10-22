@@ -6,3 +6,4 @@ SELECT * from veqkp;
 SELECT * from sstgs;
 SELECT * from ifjmc;
 SELECT * from ibefv;
+SELECT * from knwsr;
